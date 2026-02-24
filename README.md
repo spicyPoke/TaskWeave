@@ -11,8 +11,7 @@ TaskWeave is a header-only C++20 library that provides a sophisticated task grap
 - **Template-based Tasks**: Strongly-typed tasks with support for return values and dependencies
 - **Dependency Management**: Tasks can depend on other tasks through a graph-based relationship system
 - **Thread Pool Execution**: Configurable thread pool with efficient task distribution
-- **Compile-time Validation**: Concepts and SFINAE ensure function signatures match expectations
-- **Modern C++**: Built using C++20 features including concepts and advanced template metaprogramming
+- **Compile-time Validation**: Make sure to catch mistakes early at compile time
 
 ## Build Requirements
 
