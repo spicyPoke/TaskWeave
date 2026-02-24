@@ -1,0 +1,16 @@
+# Clangd cache
+.cache/
+
+# Build artifacts
+out/
+
+# Virtual environment
+.venv/
+
+build/
+
+# No need to commit these
+compile_commands.json
+
+# Managed by Conan
+CMakeUserPresets.json
